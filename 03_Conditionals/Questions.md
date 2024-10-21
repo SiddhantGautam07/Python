@@ -60,3 +60,9 @@ Problem : Determine if a year is a leap Year. (Leap year are divisible by 4, but
 </summary>
 Problem: Recommend a type of pet food based on the pet's species and age.(e.g., Dog: <2 years - Puppy food, Cat:>5 Years - Senior cat food).
 </details>
+
+<details>
+<summary>11. Finding Even or Odd
+</summary>
+Problem : Take any number to the users and find Even or Odd Number.
+</details> 
