@@ -66,3 +66,15 @@ Problem: Recommend a type of pet food based on the pet's species and age.(e.g., 
 </summary>
 Problem : Take any number to the users and find Even or Odd Number.
 </details> 
+
+<details>
+<summary>12. Votting checker
+</summary>
+Problem : Program to check whether a person is eligible to vote or not.
+</details>
+
+<details>
+<summary>13. Number is Greater or Not
+</summary>
+Problem : Take three numbere from the users and check Which number is greater .
+</details>
