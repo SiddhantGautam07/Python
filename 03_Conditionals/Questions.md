@@ -80,7 +80,7 @@ Problem : Take three numbere from the users and check Which number is greater .
 </details>
 
 <details>
-<summary>14. Find Perfect Number
+<summary>14. Find Square
 </summary>
-Problem : Take a number to users and checkout the Perfect number or not.
+Problem : Take a number to users and find the squre of the number
 </details>
