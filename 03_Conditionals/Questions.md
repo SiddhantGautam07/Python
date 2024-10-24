@@ -78,3 +78,9 @@ Problem : Program to check whether a person is eligible to vote or not.
 </summary>
 Problem : Take three numbere from the users and check Which number is greater .
 </details>
+
+<details>
+<summary>14. Find Perfect Number
+</summary>
+Problem : Take a number to users and checkout the Perfect number or not.
+</details>
