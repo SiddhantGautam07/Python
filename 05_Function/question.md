@@ -9,18 +9,19 @@ Problem : Write a function to calculate and return the square of a number.
 <details>
 <summary>2. Function with multiple Parameters
 </summary>
-Problem:
+Problem: Create a function that takes two numbers as parameters and returns their sum.
 </details>
 
 <details>
 <summary>3. Polymorphism in Python
 </summary>
-Problem :
+Problem : Write a function multiplies two numbers, but can also accept and multiply strings.
 </details>
 
 <details>
 <summary>4. Function Returning Multiple Values.
 </summary>
+Problem :
 </details>
 
 <details>
@@ -49,7 +50,8 @@ Problem :
 
 <details>
 <summary>9. Generator Function with yield
-</summary> 
+</summary>
+Problem : 
 </details>
 
 <details>
