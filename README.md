@@ -43,3 +43,11 @@ Python is a versatile, high-level programming language known for its readability
 - StacklessPython
 - Pythonxy
 - AnacondaPython
+
+# Some important Commands to Execute some special Task
+
+- If we wants to see the executable file of any python programm then use this command
+    - <b> python -m py_compile filename.py</b>
+
+- If we wants to make any API then use this commands
+    - <b>python -m pydoc -w filename without extension</b>
