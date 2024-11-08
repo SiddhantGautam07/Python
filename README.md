@@ -31,3 +31,14 @@ Python is a versatile, high-level programming language known for its readability
 - Database Connectivity
 - Scalable
 - Batteries Included
+
+# Flavors of Python
+
+- Cpython
+- Jython & Jpython
+- IronPython
+- PyPy
+- RubyPython
+- StacklessPython
+- Pythonxy
+- AnacondaPython
