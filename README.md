@@ -31,6 +31,7 @@ Python is a versatile, high-level programming language known for its readability
 - Database Connectivity
 - Scalable
 - Batteries Included
+- Memory Management : - memmory allocation and deallocation are done during runtime automatically.
 
 # Flavors of Python
 
