@@ -1,6 +1,6 @@
 # Data types in Python
 
-- There are 5 types of DataTypes in python
+- There are 6 types of DataTypes in python
 
     - Numeric
         - Integer
