@@ -2,7 +2,7 @@
 
 - There are 5 types of DataTypes in python
 
-    - Numbers
+    - Numeric
         - Integer
         - Float
         - Complex Number
@@ -11,5 +11,6 @@
         - Tuple
         - List
     - Boolean
+    - None Type
     - Dictionary
     - Set
