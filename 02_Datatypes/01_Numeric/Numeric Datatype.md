@@ -16,10 +16,14 @@
 # Representing Binary, Octal and Hexadecimal Numbers
 
 - Binary Number :- A binary number should be written by prefixing 0b (Zero and b) or 0B (zeor and B) before the value.
-    For Example :- 0b110110, 0B101010011 are treated as Binary Number.
+    - For Example :- 0b110110, 0B101010011 are treated as Binary Number.
+    - to convert decimal number into binary number use this function = bin()
 
 - Hexadecimal Number :- A Hexadecimal numbers are written by prefixing 0x (zeor and x) or 0X (zeor and big X) before the value.
-    For Example :- 0xA180, 0x11fb91 are treated as Hexadecimal Number.
+    - For Example :- 0xA180, 0x11fb91 are treated as Hexadecimal Number.
+    - To convert decimal number into Hexadeciaml number use this function = hex()
 
 - Octal Number :- A Octal numbers are written by prefixing 0o (zero and small o) or 0O (zero and big O) before the actual value.
-    For Example:- 0O145, 0o773 are treated ad Octal Number.
+    - For Example:- 0O145, 0o773 are treated ad Octal Number.
+    - To convert decimal number into Octal number use this funciton = oct()
+    
