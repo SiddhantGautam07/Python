@@ -12,3 +12,14 @@
 
 - Complex :- It sotres all real and imaginary value either negative or positive value.
     - Example :- 2 + 5j, -1 - 5.5j, 0.2 + 10.5j, these are the examples of complex number and <b>j here represents the square root value of -1.</b>
+
+# Representing Binary, Octal and Hexadecimal Numbers
+
+- Binary Number :- A binary number should be written by prefixing 0b (Zero and b) or 0B (zeor and B) before the value.
+    For Example :- 0b110110, 0B101010011 are treated as Binary Number.
+
+- Hexadecimal Number :- A Hexadecimal numbers are written by prefixing 0x (zeor and x) or 0X (zeor and big X) before the value.
+    For Example :- 0xA180, 0x11fb91 are treated as Hexadecimal Number.
+
+- Octal Number :- A Octal numbers are written by prefixing 0o (zero and small o) or 0O (zero and big O) before the actual value.
+    For Example:- 0O145, 0o773 are treated ad Octal Number.
