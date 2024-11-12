@@ -4,3 +4,7 @@ print(x[0])
 print(x[3])
 print(x[4])
 
+x [0] = 88
+print(x)
+
+
