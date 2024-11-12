@@ -23,3 +23,6 @@ print(c)
 
 d = False - True
 print(d)
+
+e = False - False
+print(e)
