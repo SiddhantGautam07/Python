@@ -35,3 +35,24 @@
 - max()
 
 - min()
+
+# Difference Between List and array
+
+<table>
+    <tr>
+            <th>Lists</th>
+            <th>Array</th>
+        </tr>
+        <tr>
+            <td>List can store different types of elements</td>
+            <td>But an array can store only one type of elements</td>
+        </tr>
+        <tr>
+            <td>List can grow Dynamically in memory</td>
+            <td>But the size of arrays is fixed and they cannot grow at runtime.</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+</table>
