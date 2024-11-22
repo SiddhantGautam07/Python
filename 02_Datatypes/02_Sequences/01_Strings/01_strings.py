@@ -24,3 +24,11 @@ print(num_list[0:7:2])
 print()
 
 
+new = "Jai Maa Bharat \
+Jai Shree Ram"
+print(new)
+print()
+
+old = "My name is Siddhant\vGautam Yadav"
+print(old)
+
