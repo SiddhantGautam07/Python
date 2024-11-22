@@ -23,5 +23,9 @@
 # Note About Python
 
 - Python does not have increment operator (++) and decrement operator (--).
-
+- There Four way to initialize the module in python
+    1. import math
+    2. import math as m
+    3. from math import sqrt
+    4. from math import sqrt, factorial
     
