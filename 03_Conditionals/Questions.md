@@ -84,3 +84,15 @@ Problem : Take three numbere from the users and check Which number is greater .
 </summary>
 Problem : Take a number to users and find the squre of the number
 </details>
+
+<details>
+<summary>15. Finding Even or Odd Number
+</summary>
+Problem : Take a number to users and find the Even or odd Number of the number
+</details>
+
+<details>
+<summary>16. Test the number is between 1 to 10
+</summary>
+Problem : A Python Program to test whether a given number is in between 1 and 10.
+</details>
