@@ -95,3 +95,20 @@ items = ["apple", "banana", "orange", "apple", "mango"]
 Problem: Implement an exponential backoff strategy that doubles the wait time between retries, starting from 1 second, but stops after 5 retries.
 </details>
 
+
+<details>
+<summary>
+11. Even number between m and n
+</summary>
+Problem: A python program to display even numbers between m and n.
+</details>
+
+<details>
+<summary>
+15. Sum of list
+</summary>
+Problem: A python program to display and sum of a list of numbers using for loop and while loop
+</details>
+
+
+
