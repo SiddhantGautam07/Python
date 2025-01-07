@@ -18,3 +18,9 @@
     3. Using logspace() function
     4. Using arange() function
     5. Using zeros() and ones () functions
+
+# Working with Mult-Dimensional Arrays
+    1. Using array() funciton
+    2. Using ones() and zeroes() functions
+    3. Using eye() funciton
+    4. Using reshape() function
