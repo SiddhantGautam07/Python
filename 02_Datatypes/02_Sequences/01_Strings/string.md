@@ -29,3 +29,27 @@
 - r/R (Raw) Operator :- It is used to specify the raw string. Raw strings are used in the cases where we need to print the actual meaning of escape characters such as "C://python". 
 
 - % modulo Operator :- It is used to perform string formatting. It makes use of the format specifiers used in C programming like %d or %f to map their values in python. We will discuss how formatting is done in python.
+
+# Various methods are perfomed on Strings
+1. len()
+    - str = "Core Python" <br> print(len(str))
+2. Indexing[]
+    - str = "Core Python" <br> print([0])
+3. Slicing[]
+    - [::2] - It will access entire string in steps of 2
+    - [::] - It will access string from 0th to last character.
+    - [2:4:1] - It will starts from 2 and goest till 3 (n-1 [4-1 = 3]) with steps of 1
+    - [2::] - It will starts from 2 and goes till end
+    - [:2:] - It will starts form 0 and goes till 1 with 1 steps.
+    - [-4:-1] - It will access str[-4] to str[-2] form left to right in str.
+    - [-6::] - It will access from [-6] till the end of the string.
+    - [-1:-4:-1] - It retrieve from str[-1] to str[-3] from right to left.
+    - [-1::-1] - It will retrieve element from last to first element of the string. 
+4. Repeating (*)
+    - str = 'core python' <br> print(str*2)
+    - s = str[5:7] <br> print(s)
+5. Concatenation (+)
+6. Checking Membership (in or not in)
+7. Comparing Strings
+8. Removing Spaces from a string (using strip(),lstrip(),rstrip())
+9. Finding Sub String (find(), rfind(),index(),rindex())
