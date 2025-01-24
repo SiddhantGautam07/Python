@@ -53,3 +53,16 @@
 7. Comparing Strings
 8. Removing Spaces from a string (using strip(),lstrip(),rstrip())
 9. Finding Sub String (find(), rfind(),index(),rindex())
+10. Counting Substrings in a String (count())
+11. Strings are Immutable
+12. Replacing a string with another string.
+13. Spliting and Joining String.
+14. Change Case in String.[upper(), lower(), swapcase(), title()]
+15. Checking Starting or Ending of the String with substring (startswith(), endswith())
+16. String Testing Method [isalnum(), isalpha(), isdigit(), islower(), isupper(), istitle(), isspace()]
+17. Formated String
+18. Working with Characters. [through indexing, slicing and also test the characters]
+19. Sorting Strings [(sort.str), (str1 = sorted(str))]
+20. Searching in the String
+21. Finding Number of Characters and Words without using len(string)
+22. Inserting sub String into a string [''.join]
