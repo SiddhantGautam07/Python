@@ -1,0 +1,8 @@
+str = input("Enter main String : ")
+s1 = input("S1: ")
+s2 = input("S2: ")
+# s2 = input("Which string wants to Add : ",str)
+str1 = str.replace(s1,s2)
+print(str)
+print()
+print(str1)
