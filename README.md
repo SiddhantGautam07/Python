@@ -51,3 +51,28 @@ Python is a versatile, high-level programming language known for its readability
 
 - If we wants to make any API then use this commands
     - <b>python -m pydoc -w filename without extension</b>
+
+# Virtual Environment Guide
+
+- To install Virtual environment
+    - pip install virtualenv
+    - To install any virsion of python 
+        - python -m venv [name_of_virtualenvironment(ex:- venv, my_virtual )]
+    - To use the virtual environment
+        - for mac and linux
+            - source name_of_virutalevironment/bin/activate
+        - for Windows
+            - .\name_of_environment\Scripts\activate
+        - To confirm the virtual environment install or not
+            - which python
+        - To Deactivate the virtualenvironment
+            - deactivate
+    - To check the virsion
+        - python virsion
+    - To check how many packages are installed 
+        - pip lists
+    - To lists all the package in one text file
+        - pip lists > requirements.txt
+    - To Uninstall any package
+        - pip uninstall package_name
+
